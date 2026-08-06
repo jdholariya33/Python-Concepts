@@ -1,0 +1,10 @@
+Student Profile
+ Name: Meet Kanani
+Age: 21
+Course : Btech IT
+College: Indus University
+ID: IU2341220171
+CGPA : 6.88
+
+City : Surat
+Skill : Trade
